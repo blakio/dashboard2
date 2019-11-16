@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a765fa66.chunk.css",
+    "main.js": "/static/js/main.1309ebdf.chunk.js",
+    "main.js.map": "/static/js/main.1309ebdf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4c5795d0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4c5795d0.js.map",
+    "static/css/2.ff9ea1f9.chunk.css": "/static/css/2.ff9ea1f9.chunk.css",
+    "static/js/2.7c47dad7.chunk.js": "/static/js/2.7c47dad7.chunk.js",
+    "static/js/2.7c47dad7.chunk.js.map": "/static/js/2.7c47dad7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c21218c77fdf0d1adcccfcc60951d3d6.js": "/precache-manifest.c21218c77fdf0d1adcccfcc60951d3d6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ff9ea1f9.chunk.css.map": "/static/css/2.ff9ea1f9.chunk.css.map",
+    "static/css/main.a765fa66.chunk.css.map": "/static/css/main.a765fa66.chunk.css.map",
+    "static/media/cwlogo.png": "/static/media/cwlogo.b6e789da.png"
+  }
+}
